@@ -2,9 +2,9 @@ server:
   port: 9966
 
 astra:
-  application-token: <CHANGE_ME>
-  database-id: <CHANGE_ME>
-  database-region: <CHANGE_ME>
+  application-token: AstraCS:vjfhCfjxETNLUYrpGpSPvTzZ:3c86b42e54ae74f4eb2793cdf895a3846a3865fdfa42540b3f72248d57d586fc
+  database-id: 9196595b-ea0f-453a-8222-3d99f327c78b
+  database-region: eu-central-1
   keyspace: spring_petclinic
   metrics:
     enabled: false
